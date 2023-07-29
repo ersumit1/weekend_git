@@ -51,7 +51,11 @@ GitHub  : remote repository
 =======================================================================
 git init
 git status
+git add filename
 git add filename1,filename2,filename3
 git add .
 git status
 git restore filename
+git commit -m "initial commit"
+========================================================================
+changes applied
