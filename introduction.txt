@@ -1,0 +1,57 @@
+Team Manager
+	Miti : P-1,P-2
+	Savan : P-3,P-4
+		
+		- repository : google drive, one drive, personal server
+		
+	upload : 4 pages : v0
+	
+	Miti : changes in P-1 : V1
+	Miti : changes in P-1 : V2
+	Savan : changes in P-3 : V3
+	Miti : changes in P-1 : V4
+	Miti : changes in P-1 : V5
+	
+	Miti : P-1,P-2
+	Savan : P-3,P-4
+ 
+	upload : 4 pages
+	
+	can you undo the changes : V2
+	
+Req
+	common space : repository
+	program      : versioning : 
+					- comment 
+					- who
+					- when
+					
+Version Control tool
+	GitHub : global repository
+	
+	
+	folder1 ==> repo1 : program / software
+		image1
+		song1
+		vidoe1
+		song2
+		prog1.c
+		...
+		prog10.c
+		
+	run one command : to upload data to global repo
+	status : how many files uploaded to global repo
+	
+	folder2 ==> repo2
+	folder3 ==> repo3
+	
+GitBash : for windows machine
+GitHub  : remote repository
+
+=======================================================================
+git init
+git status
+git add filename1,filename2,filename3
+git add .
+git status
+git restore filename
